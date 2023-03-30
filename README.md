@@ -1,4 +1,6 @@
-The following is list of machine learning tools applied to different types of tasks . 
+The following is the list of machine learning tools applied to different types of tasks . 
+
+Short names of tasks I've done :
 
 AML_LinearRegression using scikit learn library
 
